@@ -2,8 +2,8 @@
     "name": "Lab8-Starter",
     "short_name": "Andrew Tran",
     "description": "",
-    "start_url": "",
-    "display": "",
+    "start_url": "./",
+    "display": "standalone",
     "background_color": "gray",
     "theme_color": "",
     "icons": [
